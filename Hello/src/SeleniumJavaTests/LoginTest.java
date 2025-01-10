@@ -17,6 +17,7 @@ public class LoginTest {
 		 String title = driver.getTitle();
 		
 		System.out.println(title);
+		System.out.println(titleee);
 		
 		//Verify
 		
